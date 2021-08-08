@@ -16,7 +16,7 @@ class Config:
 
 class Messages:
 
-    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "\n\n╭──「 ⭕️ BOT INFO ⭕️  」\n\n├ 🧬Owner :@ShivamTheSkywalker\n\n├ 💾 Functionality :GDrive Uploader\n\n├ 🛡Support group : 😬\n\n├ 🛠Channel : @XStream_Flix\n\n├ 🔼TD Support : Yes\n\n├ 🧲Forward File to Upload\n\n╰──「 🚸@XStream_Flix🚸 」__"
 
     HELP_MSG = [
         ".",
